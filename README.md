@@ -5,10 +5,11 @@
 
 JetSounds is a sound replacement patch, updated for the latest version of RealPlume & StockWaterfallEffects
 
-Jet Sounds was an amazing mod that eventually stop being updated. After this happened many people wanted the creator to keep developing it, or for someone to release their own copy that worked.
-It was picked up and maintained for a while by @Patrick_the_big, but it hasn't been updated since KSP 1.4.5 was out.
-RealPlume was updated and broke the RAPIER patch. linuxgurugamer has fixed that and added in the little patch to fix RealPlume and the mod.
-They've also renamed to mod to JetSoundsUpdated
+Jet Sounds was an amazing mod that eventually stop being updated. 
+After this happened many people wanted the creator to keep developing it, or for someone to release their own copy that worked. 
+It was picked up and maintained for a while by @Patrick_the_big, but it hasn't been updated since KSP 1.4.5 was out. 
+RealPlume was updated and broke the RAPIER patch. linuxgurugamer has fixed that and added in the little patch to fix RealPlume and the mod. 
+They've also renamed to mod to JetSoundsUpdated 
 
 I've added StockWaterfallEffects support for the existing stock patches but also added support for many other mods.
 
