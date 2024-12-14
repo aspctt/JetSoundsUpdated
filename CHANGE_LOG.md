@@ -1,6 +1,12 @@
 # JetSoundsUpdated :: Change Log
 - - -
 
+* 2024-12-14: 1.5.0.0
+	+ Added configs for following mods:
+		- Mk2 Expansion
+		- Mk3 Expansion
+		- Near Future Aeronautics
+
 * 2024-12-14: 1.4.0.0
 	+ Initial fork from linuxgurugamer's reporsitory
 	+ Added StockWaterfallEffects support for stock engines
